@@ -4,6 +4,6 @@ To install:
 
 mkdir ~/.local/share/icons/Ubuntu Papirus
 
-then copy this repositories contents to the new folder.
+then copy this repositorie's contents to the new folder.
 
 ![Ubuntu Papirus Example](https://github.com/PretzelJones/Ubuntu-Papirus-Icon-Theme/blob/master/icon_display.png)
